@@ -1,0 +1,36 @@
+# large memory files
+logs
+logs_old
+datasets
+pretrained_models
+results
+logs_zebra
+dataset
+misc
+old_train_files
+
+#train files
+/train_dit_ours_abloss.py
+/train_dit_ours7.py
+/train_dit.py
+/train.py
+/train_dit_ours7.py
+
+#run files
+run_files_icip25
+sh_files
+
+diff_env.txt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.swp
+
+# files for experiments
+scripts
+rm_archives.sh
+run.sh
+
+# vscode debugging
+.vscode
