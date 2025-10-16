@@ -78,7 +78,6 @@ We propose a **dataset distillation framework** that **does not rely on pre-trai
 
 ## 📦 Installation & Usage
 
-⚠️ The source code will be released soon. Stay tuned!
 
 ```bash
 git clone https://github.com/your-repo/sr-dataset-distillation.git
