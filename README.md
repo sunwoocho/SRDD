@@ -78,7 +78,6 @@ We propose a **dataset distillation framework** that **does not rely on pre-trai
 
 ## 📦 Installation & Usage
 
-<<<<<<< HEAD
 ⚠️ The source code will be released soon. Stay tuned!
 
 ```bash
@@ -102,4 +101,3 @@ cd sr-dataset-distillation/src
 #sample distilled dataset
 4_sample.sh
 ```
->>>>>>> master
